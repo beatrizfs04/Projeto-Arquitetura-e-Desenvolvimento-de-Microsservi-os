@@ -1,4 +1,4 @@
-# Projeto-Final-Microservicos
+# Projeto de Arquitetura e Desenvolvimento de Microsserviços
 ## O que foi feito?
 ### Descrição Geral e Requisitos Técnicos:
 - As comunicações entre os diferentes serviços podem ser feitas de forma assíncrona ou síncrona, deixando a sua escolha da responsabilidade do(s) estudante(s).
